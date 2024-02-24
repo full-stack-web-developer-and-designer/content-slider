@@ -15,7 +15,10 @@ a {
     color: #FFF;
     text-decoration: none;
 }
-a#link{
+a.link{
+    text-decoration: none;
+}
+a.link:hover{
     text-decoration: underline;
 }
 h1 {
